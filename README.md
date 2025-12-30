@@ -61,7 +61,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Interpretasi:Karena nilai p-value lebih kecil dari tingkat signifikansi 0,05, maka data tidak terdistribusi normal. Implikasinya, analisis lanjutan yang mengasumsikan distribusi normal (seperti uji parametrik tertentu) sebaiknya dilakukan dengan hati-hati. Untuk analisis hubungan antar variabel, metode non-parametrik atau pendekatan yang tidak bergantung pada asumsi normalitas dapat dipertimbangkan agar hasil analisis lebih valid.*
 
 - **Plot Q-Q:**
-  - *<a href="#"><img src="results/qqplot_Pendapatan_Tahunan_Miliar_IDR.png*
+  - *<a href="#"><img src="results/qqplot_Pendapatan_Tahunan_Miliar_IDR.png"/><a>*
   - *Interpretasi: Berdasarkan Q–Q plot, terlihat bahwa titik-titik data tidak sepenuhnya mengikuti garis lurus, terutama pada bagian kuantil rendah dan kuantil tinggi yang menyimpang cukup jauh dari garis referensi. Penyimpangan ini menunjukkan bahwa distribusi data tidak mengikuti distribusi normal. Pola lengkungan pada titik-titik data mengindikasikan adanya ketidaksimetrisan distribusi dan variasi nilai yang cukup besar, sehingga asumsi normalitas tidak terpenuhi. Hal ini sejalan dengan hasil uji Shapiro–Wilk yang sebelumnya menunjukkan bahwa data tidak terdistribusi normal.* 
 
 
@@ -71,7 +71,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Interpretasi: Terdapat korelasi positif sangat kuat antara Pendapatan_Tahunan_Miliar_IDR dan Biaya_Akuisisi_Pelanggan_Juta_IDR. Artinya, semakin tinggi pendapatan tahunan, semakin tinggi pula biaya akuisisi pelanggan.* 
 
 - **Visualisasi (Scatter Plot):**
-  - *<a href="#"><img src="results/scatterplot_Pendapatan_Tahunan_Miliar_IDR_vs_Biaya_Akuisisi_Pelanggan_Juta_IDR.png*
+  - *<a href="#"><img src="results/scatterplot_Pendapatan_Tahunan_Miliar_IDR_vs_Biaya_Akuisisi_Pelanggan_Juta_IDR.png"/><a>*
   - *Interpretasi: Pola pada scatter plot menunjukkan titik-titik data membentuk tren naik yang jelas dan rapat, sehingga mendukung hasil koefisien korelasi yang menunjukkan hubungan positif sangat kuat antara kedua variabel.* 
 
 
@@ -86,7 +86,7 @@ Slope (b1 = 0,98) berarti setiap kenaikan 1 juta IDR biaya akuisisi pelanggan di
   - *Interpretasi: Artinya, 99,1% variasi Pendapatan Tahunan dapat dijelaskan oleh Biaya Akuisisi Pelanggan melalui model regresi ini. Model memiliki kemampuan penjelasan yang sangat kuat.* 
 
 - **Visualisasi (Garis Regresi pada Scatter Plot):**
-  - *<a href="#"><img src="results/plot_regresi_Biaya_Akuisisi_Pelanggan_Juta_IDR_vs_Pendapatan_Tahunan_Miliar_IDR.png*
+  - *<a href="#"><img src="results/plot_regresi_Biaya_Akuisisi_Pelanggan_Juta_IDR_vs_Pendapatan_Tahunan_Miliar_IDR.png"/><a>*
   - *Interpretasi: Garis regresi secara jelas menunjukkan bahwa biaya akuisisi pelanggan merupakan faktor yang sangat berpengaruh terhadap pendapatan tahunan, dengan hubungan linear yang kuat dan konsisten.* 
 
 
